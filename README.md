@@ -6,7 +6,7 @@ A list of awesome IaC testing articles, speeches &amp; links. Especially about A
 * [Lessons learned from testing Over 200,000 lines of Infrastructure Code](http://www.goncharov.xyz/it/200k_iac.html)
 * [Automated Testing for Terraform, Docker, Packer, Kubernetes, and More](https://www.slideshare.net/brikis98/how-to-test-infrastructure-code-automated-testing-for-terraform-kubernetes-docker-packer-and-more) & [Video](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer)
 * [Infrastructure as Code for Software Engineers](https://www.hashicorp.com/resources/terraform-at-starbucks-infrastructure-as-code-for-software-engineers) & [Video](https://www.youtube.com/watch?v=2zrhcyv9Yiw)
-Practical Ansible testing with molecule (https://www.ansible.com/practical-ansible-testing-with-molecule)
+* [Practical Ansible testing with molecule](https://www.ansible.com/practical-ansible-testing-with-molecule)
 * [Code together: mob-programming](https://www.ansible.com/code-together-mob-programming)
 * [Better Ansible Network Automation with Roles and Custom Modules](https://www.youtube.com/watch?v=gWM68qAfg8Y)
 
