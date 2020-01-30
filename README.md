@@ -2,6 +2,10 @@
 A list of awesome IaC testing articles, speeches &amp; links. Especially about Ansible.
 
 # English
+## 2020
+* [3 lessons I've learned writing Ansible playbooks](https://opensource.com/article/20/1/ansible-playbooks-lessons)
+* [End to End Immutable Infrastructure Testing: Inspec, Vagrant, Packer and Azure DevOps](https://www.youtube.com/watch?v=vNiZbAkomr4)
+
 ## 2019
 * [Lessons learned from testing Over 200,000 lines of Infrastructure Code](http://www.goncharov.xyz/it/200k_iac.html)
 * [Automated Testing for Terraform, Docker, Packer, Kubernetes, and More](https://www.slideshare.net/brikis98/how-to-test-infrastructure-code-automated-testing-for-terraform-kubernetes-docker-packer-and-more) & [Video](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer)
