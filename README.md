@@ -31,6 +31,7 @@ A list of awesome IaC testing articles, speeches &amp; links. Especially about A
 * [Путь разработчика в SRE. История о том, что может побудить пойти в инфраструктуру целую команду разработчиков и что из этого получилось](http://devopsconf.io/moscow/2019/abstracts/5575)
 * [Infrastructure as Code: как побороть проблемы с помощью XP](https://habr.com/en/company/dodopizzaio/blog/470620/)
 * [Infrastructure as Code: первое знакомство](https://habr.com/en/company/dodopizzadev/blog/465137/)
+* [Ansible playbooks — это код: проверяем, тестируем, непрерывно интегрируем](https://habr.com/en/post/488966/) & [Видео](https://www.youtube.com/watch?v=UkP0PGMbWxY)
 
 ## 2018
 * [Эффективная разработка и сопровождение Ansible-ролей](https://www.youtube.com/watch?v=IzJsBUPXfkE)
