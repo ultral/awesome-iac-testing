@@ -27,6 +27,9 @@ A list of awesome IaC testing articles, speeches &amp; links. Especially about A
 * [How-to test your own OS distribution](http://www.goncharov.xyz/it/how-to-test-custom-os-distr.html)
 
 # Russian
+## 2020
+* (MAKE YOUR OPERATIONS EASY)[https://www.youtube.com/watch?v=LlIqNLY9OTc]
+
 ## 2019
 * [Что я узнал, протестировав 200 000 строк инфраструктурного кода](http://www.goncharov.xyz/it/200k_iac.html) & [Видео](https://www.youtube.com/watch?v=W53jMaebVJw)
 * [Путь разработчика в SRE. История о том, что может побудить пойти в инфраструктуру целую команду разработчиков и что из этого получилось](http://devopsconf.io/moscow/2019/abstracts/5575)
