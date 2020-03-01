@@ -28,7 +28,7 @@ A list of awesome IaC testing articles, speeches &amp; links. Especially about A
 
 # Russian
 ## 2020
-* (MAKE YOUR OPERATIONS EASY)[https://www.youtube.com/watch?v=LlIqNLY9OTc]
+* [MAKE YOUR OPERATIONS EASY](https://www.youtube.com/watch?v=LlIqNLY9OTc)
 
 ## 2019
 * [Что я узнал, протестировав 200 000 строк инфраструктурного кода](http://www.goncharov.xyz/it/200k_iac.html) & [Видео](https://www.youtube.com/watch?v=W53jMaebVJw)
