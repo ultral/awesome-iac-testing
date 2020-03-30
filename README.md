@@ -3,6 +3,8 @@ A list of awesome IaC testing articles, speeches &amp; links. Especially about A
 
 # English
 ## 2020
+* [Stateless Jenkins + Ansible + Tower = CICD](https://www.youtube.com/watch?v=mvULMRnwmlg)
+* [Ops by Pull Request: An Ansible GitOps Story](https://www.youtube.com/watch?v=87Tag9wyfs8)
 * [Head in the Clouds: Testing Infra as Code](https://www.youtube.com/watch?v=wYEffa1q6eU)
 * [3 lessons I've learned writing Ansible playbooks](https://opensource.com/article/20/1/ansible-playbooks-lessons)
 * [End to End Immutable Infrastructure Testing: Inspec, Vagrant, Packer and Azure DevOps](https://www.youtube.com/watch?v=vNiZbAkomr4)
