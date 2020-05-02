@@ -30,7 +30,7 @@ A list of awesome IaC testing articles, speeches &amp; links. Especially about A
 
 # Russian
 ## 2020
-* [How to test Ansible and don't go nut](https://www.youtube.com/watch?v=GdrJv5oypfg)
+* [How to test Ansible and don't go nut](http://www.goncharov.xyz/it/ansible-testing-ru.html)
 * [MAKE YOUR OPERATIONS EASY](https://www.youtube.com/watch?v=LlIqNLY9OTc)
 
 ## 2019
