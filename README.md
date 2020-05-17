@@ -3,6 +3,10 @@ A list of awesome IaC testing articles, speeches &amp; links. Especially about A
 
 # English
 ## 2020
+* [How to test Ansible and don’t go nuts](http://www.goncharov.xyz/it/ansible-testing-en.html)
+* [End To End Testing On Terraform With Terratest](https://www.youtube.com/watch?v=PlzL6Bv2fSA)
+* [Everything as Code : The New Software Development and Delivery Workflow](https://www.youtube.com/watch?v=94uNeNK_5VM)
+* [Testing Infrastructure as Code on Localhost](https://www.youtube.com/watch?v=Ru_K_CWy8F4)
 * [Stateless Jenkins + Ansible + Tower = CICD](https://www.youtube.com/watch?v=mvULMRnwmlg)
 * [Ops by Pull Request: An Ansible GitOps Story](https://www.youtube.com/watch?v=87Tag9wyfs8)
 * [Head in the Clouds: Testing Infra as Code](https://www.youtube.com/watch?v=wYEffa1q6eU)
@@ -30,7 +34,7 @@ A list of awesome IaC testing articles, speeches &amp; links. Especially about A
 
 # Russian
 ## 2020
-* [How to test Ansible and don't go nut](http://www.goncharov.xyz/it/ansible-testing-ru.html)
+* [Как начать тестировать Ansible, отрефакторить проект за год и не слететь с катушек](http://www.goncharov.xyz/it/ansible-testing-ru.html)
 * [MAKE YOUR OPERATIONS EASY](https://www.youtube.com/watch?v=LlIqNLY9OTc)
 
 ## 2019
