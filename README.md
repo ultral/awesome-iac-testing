@@ -35,6 +35,7 @@ A list of awesome IaC testing articles, speeches &amp; links. Especially about A
 # Russian
 ## 2020
 * [Как начать тестировать Ansible, отрефакторить проект за год и не слететь с катушек](http://www.goncharov.xyz/it/ansible-testing-ru.html)
+* [Основы Ansible, без которых ваши плейбуки — комок слипшихся макарон](https://habr.com/en/post/508762/)
 * [MAKE YOUR OPERATIONS EASY](https://www.youtube.com/watch?v=LlIqNLY9OTc)
 
 ## 2019
