@@ -4,6 +4,7 @@ A list of awesome IaC testing articles, speeches &amp; links. Especially about A
 # English
 ## 2020
 * [Agreements as Code: how to refactor IaC and save your sanity?](https://www.goncharov.xyz/it/aac-en.html)
+* [Continuous Testing with Molecule, Ansible, and GitHub Actions](https://www.youtube.com/watch?v=93urFkaJQ44)
 * [How to test Ansible and don’t go nuts](http://www.goncharov.xyz/it/ansible-testing-en.html)
 * [End To End Testing On Terraform With Terratest](https://www.youtube.com/watch?v=PlzL6Bv2fSA)
 * [Everything as Code : The New Software Development and Delivery Workflow](https://www.youtube.com/watch?v=94uNeNK_5VM)
