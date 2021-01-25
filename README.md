@@ -38,6 +38,7 @@ A list of awesome IaC testing articles, speeches &amp; links. Especially about A
 # Russian
 ## 2020
 * [Agreements as Code: как отрефакторить инфраструктуру и не сломаться](https://www.goncharov.xyz/it/aac-ru.html)
+* [Xудшие практики для Ansible](https://www.youtube.com/watch?v=a9ptDT67ILM) [transcription](https://habr.com/en/post/536256/)
 * [Тестирование инфраструктуры как кода Terraform: анализ модульных тестов и сквозной разработки путем тестирования поведен](https://habr.com/en/company/otus/blog/533416/)
 * [Как начать тестировать Ansible, отрефакторить проект за год и не слететь с катушек](http://www.goncharov.xyz/it/ansible-testing-ru.html)
 * [Основы Ansible, без которых ваши плейбуки — комок слипшихся макарон](https://habr.com/en/post/508762/)
