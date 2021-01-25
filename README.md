@@ -4,6 +4,7 @@ A list of awesome IaC testing articles, speeches &amp; links. Especially about A
 # English
 ## 2020
 * [Agreements as Code: how to refactor IaC and save your sanity?](https://www.goncharov.xyz/it/aac-en.html)
+* [Validate Ansible roles through molecule delegated driver](https://medium.com/@fabio.marinetti81/validate-ansible-roles-through-molecule-delegated-driver-a2ea2ab395b5)
 * [Testing Terraform Infrastructure-as-code: Unit tests & BDD end-to-end scenario testing review](https://medium.com/contino-engineering/terraform-infrastructure-as-code-testing-best-practice-unit-tests-bdd-end-to-end-scenario-c30d5a6921d)
 * [Continuous Testing with Molecule, Ansible, and GitHub Actions](https://www.youtube.com/watch?v=93urFkaJQ44)
 * [How to test Ansible and don’t go nuts](http://www.goncharov.xyz/it/ansible-testing-en.html)
@@ -38,6 +39,7 @@ A list of awesome IaC testing articles, speeches &amp; links. Especially about A
 # Russian
 ## 2020
 * [Agreements as Code: как отрефакторить инфраструктуру и не сломаться](https://www.goncharov.xyz/it/aac-ru.html)
+* [Проверка ролей Ansible через делегированный драйвер Molecule](https://habr.com/en/post/536892/)
 * [Xудшие практики для Ansible](https://www.youtube.com/watch?v=a9ptDT67ILM) [transcription](https://habr.com/en/post/536256/)
 * [Тестирование инфраструктуры как кода Terraform: анализ модульных тестов и сквозной разработки путем тестирования поведен](https://habr.com/en/company/otus/blog/533416/)
 * [Как начать тестировать Ansible, отрефакторить проект за год и не слететь с катушек](http://www.goncharov.xyz/it/ansible-testing-ru.html)
