@@ -37,6 +37,9 @@ A list of awesome IaC testing articles, speeches &amp; links. Especially about A
 * [How-to test your own OS distribution](http://www.goncharov.xyz/it/how-to-test-custom-os-distr.html)
 
 # Russian
+## 2021
+* [Тестирование ansible роли для RabbitMQ кластера с помощью molecule](https://habr.com/en/post/557854/)
+
 ## 2020
 * [Agreements as Code: как отрефакторить инфраструктуру и не сломаться](https://www.goncharov.xyz/it/aac-ru.html)
 * [Проверка ролей Ansible через делегированный драйвер Molecule](https://habr.com/en/post/536892/)
