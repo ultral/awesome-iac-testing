@@ -2,6 +2,9 @@
 A list of awesome IaC testing articles, speeches &amp; links. Especially about Ansible.
 
 # English
+## 2021
+* [How to build an operator that doesn't break prod](https://www.youtube.com/watch?v=XpmbPYvwbb0)
+
 ## 2020
 * [Agreements as Code: how to refactor IaC and save your sanity?](https://www.goncharov.xyz/it/aac-en.html)
 * [Validate Ansible roles through molecule delegated driver](https://medium.com/@fabio.marinetti81/validate-ansible-roles-through-molecule-delegated-driver-a2ea2ab395b5)
