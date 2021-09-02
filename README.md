@@ -42,6 +42,7 @@ A list of awesome IaC testing articles, speeches &amp; links. Especially about A
 # Russian
 ## 2021
 * [IaC Development Life Cycle](https://habr.com/en/company/deutschetelekomitsolutions/blog/574730/)
+* [Создаём инфраструктуру для интеграционных тестов](https://habr.com/en/company/2gis/blog/575688/)
 * [Тестирование ansible роли для RabbitMQ кластера с помощью molecule](https://habr.com/en/post/557854/)
 
 ## 2020
