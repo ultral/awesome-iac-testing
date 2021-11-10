@@ -3,6 +3,7 @@ A list of awesome IaC testing articles, speeches &amp; links. Especially about A
 
 # English
 ## 2021
+* [IaC Development Life Cycle](https://www.goncharov.xyz/it/idlc-en.html)
 * [How to build an operator that doesn't break prod](https://www.youtube.com/watch?v=XpmbPYvwbb0)
 
 ## 2020
